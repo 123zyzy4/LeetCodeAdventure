@@ -44,4 +44,20 @@ public class Solution1Test {
 
         return set1.equals(set2);
     }
+
+    @Test
+    public void test(){
+        System.out.println("12345".substring(1,2));
+    }
+
+
+    @Test
+    public void test2(){
+        int x='a';
+        int y='A';
+        int z='z'-'A';
+        System.out.println("z  "+z);
+        System.out.println(x);
+        System.out.println(y);
+    }
 }
