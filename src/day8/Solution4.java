@@ -37,6 +37,9 @@ public class Solution4 {
         System.out.println("git1");
         System.out.println("git1");
         System.out.println("git1");
+         System.out.println("git1");
+         System.out.println("git1");
+         System.out.println("git1");
 
        if(list1==null||list2==null){
            return list1==null?list2:list1;
