@@ -34,9 +34,7 @@ public class Solution4 {
 
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
 
-        System.out.println("git1");
-        System.out.println("git1");
-        System.out.println("git1");
+        
          System.out.println("git1");
          System.out.println("git1");
          System.out.println("git1");
@@ -44,7 +42,7 @@ public class Solution4 {
        if(list1==null||list2==null){
            return list1==null?list2:list1;
        }
-
+ System.out.println("git1");
        if(list1.val<= list2.val){
            list1.next=mergeTwoLists(list1.next,list2);
            return list1;
