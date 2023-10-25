@@ -4,7 +4,7 @@ import java.net.Inet4Address;
 import java.util.*;
 
 /**
- * @ClassName Solution1
+ * @ClassName day13.Solution1
  * @Description TODO
  * @Author zhangyu
  * @Date 2023/7/18 7:49
