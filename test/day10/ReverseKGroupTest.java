@@ -1,5 +1,6 @@
 package day10;
-import day10.ListNode;
+import Hot100.day10.ListNode;
+import Hot100.day10.Solution1;
 import org.junit.Test;
 import org.junit.Assert;
 

@@ -1,6 +1,7 @@
 package day6;
 
 
+import Hot100.day6.Solution1;
 import org.junit.Test;
 import org.junit.Assert;
 

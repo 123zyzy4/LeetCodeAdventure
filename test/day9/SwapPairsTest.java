@@ -1,6 +1,7 @@
 package day9;
 
-import day9.ListNode;
+import Hot100.day9.ListNode;
+import Hot100.day9.Solution3;
 import org.junit.Assert;
 import org.junit.Test;
 

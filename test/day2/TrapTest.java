@@ -1,9 +1,8 @@
 package day2;
 
+import Hot100.day2.Solution4;
 import org.junit.Assert;
 import org.junit.Test;
-
-import javax.xml.soap.SAAJMetaFactory;
 
 /**
  * @ClassName TrapTest
